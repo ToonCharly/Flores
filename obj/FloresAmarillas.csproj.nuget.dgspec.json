@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Desktop\\FloresAmarillas\\FloresAmarillas.csproj": {}
+    "C:\\Users\\carlo\\Desktop\\Flores\\Flores\\FloresAmarillas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Desktop\\FloresAmarillas\\FloresAmarillas.csproj": {
+    "C:\\Users\\carlo\\Desktop\\Flores\\Flores\\FloresAmarillas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\FloresAmarillas\\FloresAmarillas.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Flores\\Flores\\FloresAmarillas.csproj",
         "projectName": "FloresAmarillas",
-        "projectPath": "C:\\Users\\carlo\\Desktop\\FloresAmarillas\\FloresAmarillas.csproj",
+        "projectPath": "C:\\Users\\carlo\\Desktop\\Flores\\Flores\\FloresAmarillas.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Desktop\\FloresAmarillas\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Desktop\\Flores\\Flores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
