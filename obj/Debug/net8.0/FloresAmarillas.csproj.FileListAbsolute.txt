@@ -1,0 +1,4 @@
+C:\Users\carlo\Desktop\FloresAmarillas\obj\Debug\net8.0\FloresAmarillas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\FloresAmarillas\obj\Debug\net8.0\FloresAmarillas.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\FloresAmarillas\obj\Debug\net8.0\FloresAmarillas.AssemblyInfo.cs
+C:\Users\carlo\Desktop\FloresAmarillas\obj\Debug\net8.0\FloresAmarillas.csproj.CoreCompileInputs.cache
